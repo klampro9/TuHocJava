@@ -1,0 +1,137 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "video74",
+      "request": "launch",
+      "mainClass": "chapter8.video74",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "BtLab7.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Video47",
+      "request": "launch",
+      "mainClass": "BtDaHinh.Video47",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "SinhVien.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Vehicle.Car",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Vihecle.Car",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "GiaiBt",
+      "request": "launch",
+      "mainClass": "BtRegularExpression.GiaiBt",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "StudentInfo",
+      "request": "launch",
+      "mainClass": "BtString.Student.StudentInfo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "BtString",
+      "request": "launch",
+      "mainClass": "BtString.BtString",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "BtLab05",
+      "request": "launch",
+      "mainClass": "Lab05.BtLab05",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Video33",
+      "request": "launch",
+      "mainClass": "chapter5.Video33",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ProductDetail",
+      "request": "launch",
+      "mainClass": "BtLab4.ProductDetail",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "p3Main",
+      "request": "launch",
+      "mainClass": "p3.p3Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "p3",
+      "request": "launch",
+      "mainClass": "p3.p3",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "StudentDetail",
+      "request": "launch",
+      "mainClass": "Student.StudentDetail",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Bai03",
+      "request": "launch",
+      "mainClass": "Bai03",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "console": "integratedTerminal",
+      "shortenCommandLine": "jarmanifest"
+    },
+    {
+      "type": "java",
+      "name": "Launch Program",
+      "request": "launch",
+      "mainClass": "Test",
+      "console": "integratedTerminal",
+      "projectName": "java_72e8cc1b",
+      "shortenCommandLine": "jarmanifest"
+    }
+  ]
+}
