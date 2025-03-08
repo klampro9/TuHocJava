@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Btlab08.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "video74",
       "request": "launch",
       "mainClass": "chapter8.video74",
