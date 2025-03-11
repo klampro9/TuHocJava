@@ -172,3 +172,4 @@ Java hỗ trợ gói: java.util.regex để xử lý regular expression, bao g�
 - Pattern Class: định nghĩa "hình thức để search"
 - Matcher Class: được sử dụng để search
 - PatternSyntaxException Class: xử lý exception về lỗi cú pháp
+& Try catch

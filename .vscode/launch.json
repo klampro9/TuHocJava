@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Video61",
+      "request": "launch",
+      "mainClass": "chapter10.Video61",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "chapter10.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "BtLab9.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Video52",
+      "request": "launch",
+      "mainClass": "chapter9.Video52",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Btlab08.Main",
